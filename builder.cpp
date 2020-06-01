@@ -4,6 +4,7 @@
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
 *****************************************/
+#include "stdafx.h
 #include <alfa>
 #include <iostream>
 #include <string>
